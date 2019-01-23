@@ -1,0 +1,7 @@
+spring.h2.console.enabled=true
+spring.h2.consele.path=/h2
+spring.datasource.url=jdbc:h2:file:~/h2
+spring.datasource.username=sa
+spring.datasource.data-password=
+spring.datasourcer.driver-class-name=org.h2.driver
+spring.jpa.hibernate.ddl-auto=update
